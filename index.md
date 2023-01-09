@@ -39,3 +39,37 @@
 | --- | --- | 7pm | Family Night | Dining Room |John and Mel |
 | 7/1 | Saturday | 8am | Breakfast | Dining Room | Lisa |
 | --- | --- | 10am | Check Out | Travel Home | Your it |
+
+# Code
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ETracker</title>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<link rel="stylesheet" href="/home/unlqsting_x/vscode/Etracker/poop.css" />
+<!-- <link rel="stylesheet" href="Styles/style.css"> -->
+
+</head>
+
+<body>
+    <header class="header">
+        <a href="" class="logo"> <span>ETracker</span> </a> 
+        <nav class="navbar">
+            <a href="">Home</a>
+            <a href="">Goals</a>
+            <a href="">Exercise Tracker</a>
+            <a href="">Meal Planning</a>
+            <a href="">User customization</a> 
+        </nav>
+    </header>
+
+</body>
+
+</html>

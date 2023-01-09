@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600&display=swap');
+
+*{
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+$black: black;
+$darkBlue: rgb(15, 75, 124);
+$gray: rgb(94, 91, 91);
+
+html{
+    font-size: 50%;
+    scroll-behavior: smooth;
+    overflow: hidden;
+}
+
+body{
+    background-color: $black;
+}
+
+.header{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    background-color: $gray;
+}
